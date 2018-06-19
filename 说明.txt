@@ -1,0 +1,2 @@
+需要安装websocket，ws4py，pymongo模块
+运行test.py,输入查询货币

@@ -1,0 +1,4 @@
+websocket==0.2.1
+websocket-client==0.48.0
+ws4py==05.1
+pymongo==3.4.0
